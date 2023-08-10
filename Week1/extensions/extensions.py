@@ -9,8 +9,8 @@ match m:
     case _: print('application/octet-stream')
     
 '''
-    types = {//map，
-    d.get('key','value') get(key)返回 key对应的值,没找到key返回value
+    types = {//map
+        d.get('key','value') get(key)返回 key对应的值,没找到key返回value
     "gif": "image/gif",
     "jpg": "image/jpeg",
     "jpeg": "image/jpeg",
